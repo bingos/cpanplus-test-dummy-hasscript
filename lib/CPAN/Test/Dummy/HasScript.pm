@@ -7,6 +7,8 @@ use warnings;
 
 q[Test me oh test me, test me if you think you've heard this one before];
 
+=pod
+
 =head1 SYNOPSIS
 
  # erm
